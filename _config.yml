@@ -1,11 +1,11 @@
 # Site settings
 author: Tony Baker
-title: 
+title: Learning the Midnight Oil
 header-img: img/home-bg.png
 email: this.tonybaker@gmail.com
 copyright_name: Tony Baker
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Tour of My Development as a Software Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  thistonyb
