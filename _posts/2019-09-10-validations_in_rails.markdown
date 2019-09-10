@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Validations in Rails"
-date:       2019-09-10 22:12:05 +0000
+date:       2019-09-10 18:12:06 -0400
 permalink:  validations_in_rails
 ---
 
